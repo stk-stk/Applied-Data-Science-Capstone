@@ -1,5 +1,4 @@
 # Applied-Data-Science-Capstone
-### Applied Data Science Capstone
 
 This repository contains Jupyter Notebooks for the **Applied Data Science Capstone**, the final course in the IBM Data Science Professional Certificate. The project focuses on applying data science methodologies to solve a real-world problem.
 
